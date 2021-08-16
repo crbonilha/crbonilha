@@ -1,5 +1,19 @@
 ### Hi there 👋
 
+I'm passionate about competitive programming. I'm always seeking to learn new algorithms, data structures, techniques, and problem-solving insights.
+
+Currently studying:
+- One problem on LeetCode per day.
+- Codeforces Edu ITMO:
+  - Segment Tree part 2
+
+Finished studying:
+- Codeforces Edu ITMO:
+  - Segment Tree part 1
+  - Two Pointers Method
+- CP Book 4:
+  - DP chapter
+
 <!--
 **crbonilha/crbonilha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
